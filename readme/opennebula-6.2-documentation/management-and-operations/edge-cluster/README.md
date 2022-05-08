@@ -1,25 +1,5 @@
-# OpenNebula 6.2.2 documentation
+# Edge Cluster
 
-[Edge Cluster](broken-reference)
-
-* Overview
-* Equinix Edge Cluster
-* AWS Edge Cluster
-* DigitalOcean Edge Cluster
-* Google Edge Cluster
-* Vultr Edge Cluster
-* On-Premise Edge Cluster
-* Managing Providers
-* Edge Cluster Operations
-* Host and Clusters
-* Storage
-* Virtual Networks
-* Virtual Machines
-
-
-
-*
-*
 * Overview
   * How Should I Read This Chapter
   * Hypervisor Compatibility
